@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Spring Rest e Java
 - 💬 Contate-me no email: geraldomartins10@gmail.com
-- 📫 How to reach me: ...
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Ainda estou atrás da minha primeira oportunidade na área de tecnologia! Se quiser colaborar... Fique a vontade! 😁😁
 
